@@ -31,10 +31,10 @@ This project develops an efficient deepfake detection system using a **custom CN
 ## Output
 
 <!--Embed the Output picture at respective places as shown below as shown below-->
-#### Output1 - Name of the output
+#### Output1 - Confusion Matrix Heatmap
 <img src="https://github.com/user-attachments/assets/58a87070-f0f9-4ac3-ab45-406554bf95c2" width=600>
 
-#### Output2 - Name of the output
+#### Output2 - Classification Report
 <img src="https://github.com/user-attachments/assets/42739343-cabe-4476-a30e-1132f34b8607" width=600>
  
 Detection Accuracy: 96.7%
