@@ -25,17 +25,17 @@ This project develops an efficient deepfake detection system using a **custom CN
 
 ## System Architecture
 <!--Embed the system architecture diagram as shown below-->
-<img src="https://github.com/user-attachments/assets/0777e1ab-ad18-4dce-9814-60fba1384cfd" height=600>
+<img src="https://github.com/user-attachments/assets/0777e1ab-ad18-4dce-9814-60fba1384cfd" width=600>
  
 
 ## Output
 
 <!--Embed the Output picture at respective places as shown below as shown below-->
 #### Output1 - Name of the output
-<img src="https://github.com/user-attachments/assets/58a87070-f0f9-4ac3-ab45-406554bf95c2" height=600>
+<img src="https://github.com/user-attachments/assets/58a87070-f0f9-4ac3-ab45-406554bf95c2" width=600>
 
 #### Output2 - Name of the output
-<img src="https://github.com/user-attachments/assets/42739343-cabe-4476-a30e-1132f34b8607" height=600>
+<img src="https://github.com/user-attachments/assets/42739343-cabe-4476-a30e-1132f34b8607" width=600>
  
 Detection Accuracy: 96.7%
 Note: These metrics can be customized based on your actual performance evaluations.
