@@ -1,7 +1,7 @@
 ## Deepfake Detection Using CNN
 Deepfake detection model using a custom CNN.
 
-### Dataset used: https://www.kaggle.com/datasets/manjilkarki/deepfake-and-real-images
+##### Dataset used: https://www.kaggle.com/datasets/manjilkarki/deepfake-and-real-images
 
 ## About
 <!--Detailed Description about the project-->
