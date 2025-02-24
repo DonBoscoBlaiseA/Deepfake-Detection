@@ -1,6 +1,8 @@
 ## Deepfake Detection Using CNN
 Deepfake detection model using a custom CNN.
 
+### Dataset used: https://www.kaggle.com/datasets/manjilkarki/deepfake-and-real-images
+
 ## About
 <!--Detailed Description about the project-->
 This project develops an efficient deepfake detection system using a **custom CNN model**, trained on the **Deepfake and Real Images** dataset. With **advanced preprocessing and optimization techniques**, our model achieves a high **ROC-AUC score of 0.97**, ensuring accurate detection of AI-generated images.
