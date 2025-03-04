@@ -2,6 +2,7 @@
 Deepfake detection model using a custom CNN.
 
 ##### Dataset used: https://www.kaggle.com/datasets/manjilkarki/deepfake-and-real-images
+https://www.kaggle.com/datasets/xhlulu/140k-real-and-fake-faces
 
 ## About
 <!--Detailed Description about the project-->
