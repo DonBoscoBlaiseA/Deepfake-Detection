@@ -6,7 +6,7 @@ https://www.kaggle.com/datasets/xhlulu/140k-real-and-fake-faces
 
 ## About
 <!--Detailed Description about the project-->
-This project develops an efficient deepfake detection system using a **custom CNN model**, trained on the **Deepfake and Real Images** dataset. With **advanced preprocessing and optimization techniques**, our model achieves a high **ROC-AUC score of 0.97**, ensuring accurate detection of AI-generated images.
+This project develops an efficient deepfake detection system using a **custom CNN model**, trained on the **Deepfake and Real Images** dataset. With **advanced preprocessing and optimization techniques**, our model achieves a high **Accuracy of 96%**, ensuring accurate detection of AI-generated images.
 
 ## Features
 <!--List the features of the project as shown below-->
@@ -28,17 +28,20 @@ This project develops an efficient deepfake detection system using a **custom CN
 
 ## System Architecture
 <!--Embed the system architecture diagram as shown below-->
-<img src="https://github.com/user-attachments/assets/0777e1ab-ad18-4dce-9814-60fba1384cfd" width=600>
+<img src="https://github.com/user-attachments/assets/893a77ef-c798-4a4c-97d8-fdbd03996c32" width=600>
  
 
 ## Output
 
 <!--Embed the Output picture at respective places as shown below as shown below-->
-#### Output1 - Confusion Matrix Heatmap
-<img src="https://github.com/user-attachments/assets/58a87070-f0f9-4ac3-ab45-406554bf95c2" width=600>
+#### Output1 - Confusion Matrix
+<img src="https://github.com/user-attachments/assets/b2e19cc1-2907-4f65-93c4-d6401563eded" width=600>
 
 #### Output2 - Classification Report
-<img src="https://github.com/user-attachments/assets/42739343-cabe-4476-a30e-1132f34b8607" width=600>
+<img src="https://github.com/user-attachments/assets/805f1610-b69b-4ad5-9bc4-5ff9608d9545" width=600>
+
+### Output3 - GUI
+<img src="https://github.com/user-attachments/assets/413b5078-9c8c-49d1-8e68-b4513c159ef2" width=600>
  
 Detection Accuracy: 96.7%
 Note: These metrics can be customized based on your actual performance evaluations.
