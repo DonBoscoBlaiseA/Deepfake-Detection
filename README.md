@@ -42,9 +42,6 @@ This project develops an efficient deepfake detection system using a **custom CN
 
 ### Output3 - GUI
 <img src="https://github.com/user-attachments/assets/413b5078-9c8c-49d1-8e68-b4513c159ef2" width=600>
- 
-Detection Accuracy: 96.7%
-Note: These metrics can be customized based on your actual performance evaluations.
 
 
 ## Results and Impact
